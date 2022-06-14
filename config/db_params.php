@@ -1,8 +1,9 @@
 <?php
 
 return array(
-    'host' => '127.0.0.1',
+    'host' => null,
     'dbname' => 'practice',
     'user' => 'root',
     'password' => 'root'
+    'inst' => '/cloudsql/supple-framing-352808:europe-west3:practice'
 );
